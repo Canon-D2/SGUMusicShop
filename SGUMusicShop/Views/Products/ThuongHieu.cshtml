@@ -1,0 +1,10 @@
+﻿@model IEnumerable<SGUMusicShop.Models.Brand>
+<div class="list-group">
+    @foreach (var item in Model)
+    {
+        <a href="@Url.Action("SPTheoBrand","Products", new { id = item.MaBrand})" class="list-group-item">@item.TenBrand</a>
+    }
+</div>
+
+
+
