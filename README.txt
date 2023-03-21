@@ -9,3 +9,6 @@ HƯỚNG DẪN CHẠY CHƯƠNG TRÌNH
 + Dán vào Server Explorer trong Visual Studio để nhận chuỗi kết nối
 + Tiếp tục sao chép chuỗi kết nối (connection string) và dán vào File Web.config
 + Chạy chương trình
+LƯU Ý
++ Chương trình hiện đang bị lỗi thêm mới sản phẩm, sửa sản phẩm, sửa thương hiệu, sửa loại.
++ Mọi chức năng khác vẫn hoạt động bình thường.
